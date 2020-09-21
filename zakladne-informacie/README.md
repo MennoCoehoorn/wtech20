@@ -6,7 +6,7 @@
 **Počet kreditov:** 6  
 **Semester:** zimný  
 **Počet hodín týždenne (prednášky - cvičenia):** 2 - 2   
-**Čas a miestnosť prednášky:**  utorok, 14:00-15:40, -1.65 AULA MINOR
+**Čas a miestnosť prednášky:**  utorok, 14:00-15:40, -1.65 AULA MINOR  
 **Sylabus predmetu:** v AIS  
 **Garant predmetu:** Ing. Eduard Kuric, PhD.  
 **Cvičenia**

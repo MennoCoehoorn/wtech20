@@ -27,7 +27,7 @@ použijete cudzí materiál a neuvediete zdroj, práca môže byť považovaná 
 
 ## Termíny prezentovania
 V čase cvičení tím predvedie na svojom počítači svoje riešenie (fázy projektu), a to:
-* **Prezentovanie 1. fázy projektu, na cvičení: 3. týždeň - 12.10. a 13.10.**
+* **Prezentovanie 1. fázy projektu, na cvičení: 4. týždeň - 12.10. a 13.10.**
 * **Prezentovanie 2. fázy projektu, na cvičení: 7. týždeň - 2. a 3.11.**
 * **Prezentovanie finálneho projektu: 12. týždeň - 7.12. a 8.12.**
 

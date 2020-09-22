@@ -18,7 +18,7 @@
 ## Harmonogram 
 
 * **Odovzdanie 1. fázy projektu: koniec 3. týždňa - 11.10. do 23:59 v AIS, 4 body,** vytvorenie skíc jednotlivých stránok pre zariadenia extra small (< 600px)
-* **Prezentovanie 1. fázy projektu, na cvičení: 3. týždeň - 12.10. a 13.10.**
+* **Prezentovanie 1. fázy projektu, na cvičení: 4. týždeň - 12.10. a 13.10.**
 * **Odovzdanie 2. fázy projektu: koniec 6. týždňa - 1.11. do 23:59 v AIS, 12 bodov (10 + 2 body),** vytvorenie responzívnych šablón (10 bodov); návrh dátového modelu (2 body) 
 * **Prezentovanie 2. fázy projektu, na cvičení: 7. týždeň - 2. a 3.11.**
 * **Praktický test: 8. týždeň, 10 bodov**, test zameraný na praktickú realizáciu úlohy - vytvorenie šablóny podľa predlohy

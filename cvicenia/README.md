@@ -8,4 +8,3 @@
 **Cvičenie 2 (5. a 6.10.)**
 1. [HTML5: Osnova dokumentu](2-c) **[(SLAJDY)](2-c/zdroje/c2-osnova-dokumentu.pdf)**
 2. [Príklady na precvičenie](2-c/#c2-priklady)
-3. [Riešenia k príkladom](zdroje/cvicenie2-priklady-riesenia.zip)

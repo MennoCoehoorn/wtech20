@@ -6,3 +6,6 @@
 
 3. [CSS - úvod, syntax, vloženie štýlov, selektory, miera konkrétnosti selektora, dedenie, box model, základné vlastnosti](zdroje/03-WT-css-uvod-selektory-box.pdf) (6.10.) 
     * [Príklady z prednášky](zdroje/priklady-03-WT-css.zip)
+
+4. [CSS - štandardný tok, rozloženie stránky (float, css tabuľky, grid layout), responzívny dizajn (vs. statický, tekutý, adaptívny)](zdroje/04-WT-css-responzivny-dizajn.pdf) (13.10.)
+* [Príklady z prednášky](zdroje/priklady-04-WT-css.zip)

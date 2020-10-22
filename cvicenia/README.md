@@ -24,3 +24,10 @@
 2. [CSS: Štýlovanie textu - teória](4-c/stylovanie-textu)
 3. [CSS: Štýlovanie textu - príklady na precvičenie](4-c/stylovanie-textu#c4-stylovanie-textu-priklady)
 4. [CSS: Rozloženie stránky - príklady na precvičenie](4-c/rozlozenie-stranky#c4-rozlozenie-stranky-priklady)
+5. [Riešenia k príkladom - vizitka](zdroje/cvicenie4a-priklady-riesenia.zip)
+6. [Riešenia k príkladom - odkazy ako menu + rozloženie stránky](zdroje/cvicenie4b-priklady-riesenia.zip)
+
+**Cvičenie 5 (26.-27.10.)**
+* [Prvý Laravel projekt, rozbehanie vlastného webového serveru](5-c/wamp)
+* [PHP rýchlokurz](/prednasky/PHP-rychlokurz)
+* [PHP základy, Laravel - príklady na precvičenie](5-c/laravel-uvod)

@@ -1,4 +1,4 @@
-# Semestrálny projekt - elektornický obchod
+# Semestrálny projekt - elektronický obchod
 
 ## Zadanie
 Vytvorte webovú aplikáciu - eshop, ktorá komplexne rieši nižšie definované prípady použitia vo vami zvolenej doméne (napr. elektro, oblečenie, obuv, nábytok). Presný rozsah a konkretizáciu prípadov použitia si dohodnete s Vašim cvičiacim na cvičení.

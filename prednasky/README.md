@@ -14,3 +14,7 @@
     * [PHP rýchlokurz](PHP-rychlokurz/)
 
 6. [Laravel - základné koncepty architektúry, Blade, ORM (Eloquent), vzťahy medzi modelmi](zdroje/06-WT-laravel-koncepty-architetury-blade-orm-vztahy.pdf) (27.10.)
+
+7. [Laravel - sedenia (sessions), cache, validácia, logovanie, obsluha chýb (error handling), udalosti (events), autorizácia, lokalizácia (i18n), jednotkové testovanie (unit testing)](zdroje/07-WT-laravel-technologie.pdf) (3.11.)
+	* [Jednoduchý manažér úloh: pridanie ďalších technológií - prezentácia HANDS ON](../cvicenia/7-c/zdroje/7c-taskmanager-technologie.pptx)
+    * [Jednoduchý manažér úloh: aktuálny stav z prednášky - zdrojový kód bez vendora](zdroje/taskmanager2020.zip)

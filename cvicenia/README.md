@@ -35,3 +35,8 @@
 **Cvičenie 6 (2.-3.11.)**
 * [Laravel - Autentifikácia a autorizácia na základe role používateľa](/cvicenia/6-c/autentifikacia-rola)
 * [Laravel - Jednoduchý manažér úloh](/cvicenia/6-c/manazer-uloh)
+
+**Cvičenie 7 (9-10.11.)**
+* [Laravel - technológie - príklady na precvičenie](/cvicenia/7-c/)
+	* [Jednoduchý manažér úloh: pridanie ďalších technológií - prezentácia HANDS ON](../../prednasky/zdroje/7c-taskmanager-technologie.pptx)
+    * [Jednoduchý manažér úloh: aktuálny stav z prednášky - zdrojový kód bez vendora](../../prednasky/zdroje/taskmanager2020.zip)

@@ -50,5 +50,7 @@ Predpokladaný termín: 8. týždeň semestra.
 ## Podmienky získania zápočtu
 * aktívna účasť na cvičeniach
 * priebežné odovzdanie (v daných termínoch) a vysvetlenie všetkých častí projektu (vlastnej práce študentov) v predpísanej kvalite (podľa požiadaviek cvičiaceho)
-* získanie minimálne 25 bodov (z 56 bodov) v súčte za vypracovaný projekt a priebežný test z toho minimálne 3 body (z 10 bodov) musia byť za praktický test
+* získanie minimálne 25 bodov (zo 56 bodov) v súčte za vypracovaný projekt a priebežný test z toho minimálne 3 body (z 10 bodov) musia byť za praktický test
+
+**ZMENA: minimum je 19 bodov**
 

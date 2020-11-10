@@ -38,5 +38,5 @@
 
 **Cvičenie 7 (9-10.11.)**
 * [Laravel - technológie - príklady na precvičenie](/cvicenia/7-c/)
-	* [Jednoduchý manažér úloh: pridanie ďalších technológií - prezentácia HANDS ON](../../prednasky/zdroje/7c-taskmanager-technologie.pptx)
-    * [Jednoduchý manažér úloh: aktuálny stav z prednášky - zdrojový kód bez vendora](../../prednasky/zdroje/taskmanager2020.zip)
+	* [Jednoduchý manažér úloh: pridanie ďalších technológií - prezentácia HANDS ON](../prednasky/zdroje/7c-taskmanager-technologie.pptx)
+    * [Jednoduchý manažér úloh: aktuálny stav z prednášky - zdrojový kód bez vendora](../prednasky/zdroje/taskmanager2020.zip)

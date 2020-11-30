@@ -55,7 +55,7 @@ V **Jednoduchom manažéri úloh** prerobte vymazanie úlohy tak, že použijete
 
 V prípade úspešnej akcie, vymazanie záznamu sa prejaví aj priamo v DOM, a teda dynamicky odoberiete HTML element reprezentujúci danú úlohu (použite JS DOM API, metódu `removeChild`). 
 
-### Príklad 4
+### Príklad 3
 Prerobte tieto ES6 moduly do modulov vo formáte AMD (zavádzač RequireJS), a tiež CommonJS (zavádzač SystemJS)
 
 ```js
@@ -75,7 +75,7 @@ console.log(diag(4, 3)); // 5
 ```
 
 
-### Príklad 3
+### Príklad 4
 Vytvorte svoju prvú jednoduchú Vue.js aplikáciu - [počítadlo kliknutí na tlačídlo z prednášky](/prednasky/zdroje/09-wt-js-ajax-fetch-promises-storage-moduly-webpack-vuejs-uvod.pdf)
 
 ```html
@@ -125,7 +125,7 @@ var app = new Vue({
 ```
 
 
-### Príklad 4
+### Príklad 5
 Vyskúšajte si príklad s jednoduchou indexovanou DB (IndexedDB). 
 
 Z prednášky si pripomeňte obsluhu `onblocked` a `onversionchange`. V novej karte na rovnakej doméne  (same origin) nasimulujte vytvorenie novej verzie databázy a ošetrite predmetnú obsluhu - v pôvodnej karte sa uzatvorí spojenie, v novej karte sa zmení schéma pôvodnej databázy (napr., pridajte tím, v ktorom daný jazdec F1 pôsobí).

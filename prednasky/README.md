@@ -18,3 +18,6 @@
 7. [Laravel - sedenia (sessions), cache, validácia, logovanie, obsluha chýb (error handling), udalosti (events), autorizácia, lokalizácia (i18n), jednotkové testovanie (unit testing)](zdroje/07-WT-laravel-technologie.pdf) (3.11.)
 	* [Jednoduchý manažér úloh: pridanie ďalších technológií - prezentácia HANDS ON](../cvicenia/7-c/zdroje/7c-taskmanager-technologie.pptx)
     * [Jednoduchý manažér úloh: aktuálny stav z prednášky - zdrojový kód bez vendora](zdroje/taskmanager2020.zip)
+
+8. [JavaScript - úvod, základné konštrukcie, OO vs. funkcionálne programovanie (koncepty multiparadigmový, dynamický, prototypovací jazyk), objekty, dedenie (prototype chaining), vloženie JS, režimy vykonania JS, Web API, manipulácia s DOM, udalosti, delegovanie udalostí](zdroje/08-WT-js-uvod-objekty-webapi-udalosti.pdf) (24.11.)
+* [Ukážka - deklaratívne vs. imperatívne programovanie](zdroje/declarative-imperative.zip)

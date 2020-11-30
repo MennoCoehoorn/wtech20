@@ -40,3 +40,10 @@
 * [Laravel - technológie - príklady na precvičenie](/cvicenia/7-c/)
 	* [Jednoduchý manažér úloh: pridanie ďalších technológií - prezentácia HANDS ON](7-c/zdroje/7c-taskmanager-technologie.pptx)
     * [Jednoduchý manažér úloh: aktuálny stav z prednášky - zdrojový kód bez vendora](/prednasky/zdroje/taskmanager2020.zip)
+
+**Cvičenie 8 (23-24.11.)**
+* práca na projekte
+
+**Cvičenie 9 (30.11-1.12.)**
+* [JS - Príklady na precvičenie](/cvicenia/9-c/JS/)
+* [Mojá prvá Single Page alikácia vo Vue.js s využitím Quasar rámca](/cvicenia/9-c/PrvaSPA/)

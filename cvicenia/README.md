@@ -47,3 +47,16 @@
 **Cvičenie 9 (30.11-1.12.)**
 * [JS - Príklady na precvičenie](/cvicenia/9-c/JS/)
 * [Mojá prvá Single Page alikácia vo Vue.js s využitím Quasar rámca](/cvicenia/9-c/PrvaSPA/)
+
+**Vytvorme v Quasare vlastné ADMIN rozhranie. Najskôr si prejdite tutoriálom [Moja Prvá SPA](/cvicenia/9-c/PrvaSPA/). ***
+
+* **[ADMIN rozhranie - tutoriály](10-c)**
+    * **1. časť**: [vytvorenie základných šablón pre ADMIN rozhranie eshopu](10-c/part1)
+    * **2. časť**: [zoznam produktov - backend v Laraveli a jeho prepojenie s komponentom Index](10-c/part2)
+
+
+**Cvičenie 11 (4-5.12.)**
+* **[ADMIN rozhranie - tutoriály](11-c)**
+    * **3. časť**: [vymazanie produktu](11-c/part3)
+    * **4. časť**: [pridanie a editovanie produktu](11-c/part4) 
+* **[ADMIN zdrojový kód](zdroje/admin.zip)**

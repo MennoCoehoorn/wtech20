@@ -46,7 +46,7 @@
 
 **Cvičenie 9 (30.11-1.12.)**
 * [JS - Príklady na precvičenie](/cvicenia/9-c/JS/)
-* [Mojá prvá Single Page alikácia vo Vue.js s využitím Quasar rámca](/cvicenia/9-c/PrvaSPA/)
+* [Mojá prvá Single Page aplikácia vo Vue.js s využitím Quasar rámca](/cvicenia/9-c/PrvaSPA/)
 
 ***Vytvorme v Quasare vlastné ADMIN rozhranie. Najskôr si prejdite tutoriálom [Moja Prvá SPA](/cvicenia/9-c/PrvaSPA/).***
 

@@ -133,7 +133,7 @@ konzistencia/jednotná konvencia pri názvosloví identifikátorov - 1b
   * registrácia, prihlásenie, odhlásenie
 
 #### admin časť - 6 (+4?) bodov
-* prihlásenie/odhlásenie - bonus 4b
+* prihlásenie/odhlásenie (prihlasit sa mozu pouzivatelia s rolou ADMIN) - bonus 4b
 * zoznam produktov - 1 bod
 * pridanie produktu - 2 body
    * s uploadom obrázkov

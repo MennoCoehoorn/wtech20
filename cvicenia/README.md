@@ -48,7 +48,7 @@
 * [JS - Príklady na precvičenie](/cvicenia/9-c/JS/)
 * [Mojá prvá Single Page alikácia vo Vue.js s využitím Quasar rámca](/cvicenia/9-c/PrvaSPA/)
 
-**Vytvorme v Quasare vlastné ADMIN rozhranie. Najskôr si prejdite tutoriálom [Moja Prvá SPA](/cvicenia/9-c/PrvaSPA/). ***
+***Vytvorme v Quasare vlastné ADMIN rozhranie. Najskôr si prejdite tutoriálom [Moja Prvá SPA](/cvicenia/9-c/PrvaSPA/).***
 
 * **[ADMIN rozhranie - tutoriály](10-c)**
     * **1. časť**: [vytvorenie základných šablón pre ADMIN rozhranie eshopu](10-c/part1)

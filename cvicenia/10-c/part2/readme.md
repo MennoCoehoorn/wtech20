@@ -76,7 +76,7 @@ Spustíme migráciu:
 
 Nezabudnime na fillable v modeli Product
 ```php
-protected $fillable = ['name', description];
+protected $fillable = ['name', 'description'];
 ```
 
 Ďalej, nastavíme smerovanie, v súbore ``routes/web.php`` pridáme:

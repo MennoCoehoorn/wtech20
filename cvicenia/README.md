@@ -56,4 +56,4 @@
 * **[ADMIN rozhranie - pokračovanie](11-c)**
     * **3. časť**: [vymazanie produktu](11-c/part3)
     * **4. časť**: [pridanie a editovanie produktu](11-c/part4) 
-* **[ADMIN zdrojový kód](zdroje/admin.zip)**
+* **[ADMIN zdrojový kód AKTUALIZOVANÉ](zdroje/admin20.zip)**

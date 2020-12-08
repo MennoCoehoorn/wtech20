@@ -160,6 +160,7 @@ export default {
     })
   }
 }
+</script>
 ```
 
 Čo sme pridali:
@@ -224,6 +225,37 @@ public function list($page) {
 ```
 
 V ``$page`` si posielame aktuálne čislo stránky, ďalej cez *helper* ``request`` načítavame parametre z url za ``?`` (i.e. podľa čoho usporadúvame a ako). Následne načítame dáta z DB a vrátime ich ako JSON. V *q-table* je [Rows per page: All] reprezentované hodnotou 0 (je to uvedené aj v dokumentácii) - v takom prípade vynecháme stránkovanie. Booleovskú hodnotu *descending* transformujeme na DESC, resp. ASC.
+
+Upravíme šablónu:
+
+```html
+<q-table
+      :data="serverData"
+      row-key="name"
+      :pagination.sync="serverPagination"
+      :loading="loading"
+      @request="request"
+      :columns="columns"
+      title="List of products"
+      binary-state-sort
+      >
+      <q-tr slot="body" slot-scope="props" :props="props">
+        <q-td key="id" :props="props">
+          <span>{{ props.row.id }}</span>
+        </q-td>
+        <q-td key="name" :props="props">
+          <span>{{ props.row.name }}</span>
+        </q-td>
+        <q-td class="text-right">
+          <div v-if="props.row.id == 'DELETED'">DELETED</div>
+          <div v-else>
+            <q-btn round icon="edit" class="q-mr-xs" @click="$router.push('/products/' + props.row.id + '/edit')" />
+            <q-btn round icon="delete" @click="destroy(props.row.id, props.row.name, props.row.__index)"/>
+          </div>
+        </q-td>
+      </q-tr>
+    </q-table>
+```
 
 V tomto momente by malo fungovať načítanie produktov do *q-table* s plnohodnotným stránkovaním a usporadúvaním podľa *name*.
 

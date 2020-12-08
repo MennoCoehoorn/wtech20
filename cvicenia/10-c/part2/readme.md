@@ -74,6 +74,10 @@ public function up() {
 Spustíme migráciu:
 ``php artisan migrate``
 
+Nezabudnime na fillable v modeli Product
+```php
+protected $fillable = ['name', description];
+```
 
 Ďalej, nastavíme smerovanie, v súbore ``routes/web.php`` pridáme:
 

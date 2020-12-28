@@ -22,8 +22,11 @@
 8. [JavaScript - úvod, základné konštrukcie, OO vs. funkcionálne programovanie (koncepty multiparadigmový, dynamický, prototypovací jazyk), objekty, dedenie (prototype chaining), vloženie JS, režimy vykonania JS, Web API, manipulácia s DOM, udalosti, delegovanie udalostí](zdroje/08-WT-js-uvod-objekty-webapi-udalosti.pdf) (24.11.)
 	* [Ukážka - deklaratívne vs. imperatívne programovanie](zdroje/declarative-imperative.zip)
 
-9. [JavaScript - AJAX, Fetch API, sľuby (promises), lokálne úložisko (local storage), úložisko sedenia (session storage), IndexedDB, moduly - AMD, CommonJS, zavádzače, transpilátor, balíkovač (bundler), minifikácia, zamlženie kódu (obfuscation), Webpack, strict režim, Vue.js - úvod](zdroje/09-wt-js-ajax-fetch-promises-storage-moduly-webpack-vuejs-uvod.pdf) (1.12, 7.12.)
+9. [JavaScript - AJAX, Fetch API, sľuby (promises), lokálne úložisko (local storage), úložisko sedenia (session storage), IndexedDB, moduly - AMD, CommonJS, zavádzače, transpilátor, balíkovač (bundler), minifikácia, zamlženie kódu (obfuscation), Webpack, strict režim, Vue.js - úvod](zdroje/09-WT-js-ajax-fetch-promises-storage-moduly-webpack-vuejs.pdf) (1.12, 7.12.)
 	* [Ukážka - AJAX vs. Fetch API](zdroje/priklady-ajax-fetch.zip)
 
-10. [Vue.js - rektivita, základné konštrukcie, komponenty, dynamické/asynchrónne komponenty, hooks, udalosti, filtre, mixins, Vuex (store), rámec Quasar](zdroje/10-wt-vuejs.pdf) (1.12.)
+10. [Vue.js - rektivita, základné konštrukcie, komponenty, dynamické/asynchrónne komponenty, hooks, udalosti, filtre, mixins, Vuex (store), rámec Quasar](zdroje/10-WT-vuejs.pdf) (1.12.)
     * [Príklady z prednášky](zdroje/vue.js-priklady.zip)
+
+11. [Node.js, Vue.js - zostavenie na strane servera (server-side rendering), prerendering, hydratácia (client-side hydration), Adonis.js, websockety, Sass preprocesor](zdroje/11-WT-nodejs-ssr-adonis-websocket-sass.pdf) (15.12.)
+    * [Ukážka - Vue.js - server-side rendering](zdroje/vue-ssr.js)
